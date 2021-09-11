@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/linhducit/sub_module_lesson2.git
